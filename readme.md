@@ -10,7 +10,7 @@
 
 Кликните по превью ниже, чтобы перейти к просмотру видеоотчета о работе аддона, генерации сцен и тестировании алгоритма поиска пути на YouTube:
 
-[![Смотреть презентацию](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Смотреть презентацию](https://www.youtube.com/watch?v=bjMWsp86UVk)
 
 > **Инструкция для разработчика:** Замените YOUR_VIDEO_ID_HERE в кодовой строке выше на реальный ID вашего видео с YouTube (например, если ссылка на ваше видео имеет вид https://youtu.be/dQw4w9WgXcQ, то ваш ID — это dQw4w9WgXcQ). После этого на GitHub автоматически появится картинка-превью.
 
